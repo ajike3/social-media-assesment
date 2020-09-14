@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+  }
+  .header {
+      text-align: center;
+      position: relative;
+      height: 400px;
+      width: 850px;
+      left: 200px;
+      background-color: blue;
+  }
+  .profile_image {
+      position: relative;
+      width: 175px;
+      height: 175px;
+      top: 270px;
+      left: 20px;
+      z-index: 1;
+      border: 2px solid black;
+      background-color:blue
+  }
+  .buttons {
+          position: relative;
+          top: 190px;
+          left: 300px;
+  }
+  .profile_name {
+      position: relative;
+      top: 60px;
+      left: -200px;
+  }
+  .profile_website {
+      position: relative;
+      top: 50px;
+      left: -95px;
+  }
+  nav {
+      position: relative;
+      border: 4px solid black;
+      top: 80px;
+  }
+  .column1 {
+      position: relative;
+      width: 328px;
+      top: 25px;
+      left: 200px;
+      border: .2px solid black;
+  }
+  .box1 {
+      position: relative;
+      width: 200px;
+      height: 200px;
+      border: 5px solid black;
+      padding: 10px;
+      margin: 25px;
+      background-color:blue
+  }
+  .column2 {
+      position: relative;
+      width: 512px;
+      top: -225px;
+      left: 538px;
+      border: .5px solid black;
+  }
+  .box2 {
+      position: relative;
+      width: 400px;
+      height: 300px;
+      border: 5px solid black;
+      padding: 5px;
+      margin: 25px;
+      background-color:blue
+  }
